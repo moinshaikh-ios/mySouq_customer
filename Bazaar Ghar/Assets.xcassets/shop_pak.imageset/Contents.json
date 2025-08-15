@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "shop_pak.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

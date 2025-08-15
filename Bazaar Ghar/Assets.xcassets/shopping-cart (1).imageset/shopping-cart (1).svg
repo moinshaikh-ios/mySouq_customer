@@ -1,0 +1,18 @@
+<svg id="shopping-cart_1_" data-name="shopping-cart (1)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.301" height="39.301" viewBox="0 0 39.301 39.301">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd5900"/>
+      <stop offset="1" stop-color="#ffde00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe59a"/>
+      <stop offset="1" stop-color="#ffffd5"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_20166" data-name="Path 20166" d="M12.742,30.09H29.99a5.751,5.751,0,0,0,5.528-4.174l3.737-12.852a1.151,1.151,0,0,0-1.106-1.473H9.061L7.709,5.279A6.734,6.734,0,0,0,1.151,0a1.151,1.151,0,0,0,0,2.3,4.476,4.476,0,0,1,4.306,3.46L9.7,25.543a5.776,5.776,0,0,0,1.381,2.673,3.453,3.453,0,0,0,.758,6.357A3.454,3.454,0,1,0,18.3,34.7h9.607a3.454,3.454,0,1,0,6.512,0H35.77a1.151,1.151,0,1,0,0-2.3H12.742a1.151,1.151,0,0,1,0-2.3Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  <g id="Group_15976" data-name="Group 15976" transform="translate(15.045 16.163)">
+    <g id="Group_15975" data-name="Group 15975">
+      <path id="Path_20167" data-name="Path 20167" d="M211.153,210.585a1.152,1.152,0,0,0-1.323.949l-1.151,6.985a1.151,1.151,0,1,0,2.272.375l1.151-6.985A1.151,1.151,0,0,0,211.153,210.585Zm-12.868.949a1.151,1.151,0,0,0-2.272.375l1.151,6.985a1.151,1.151,0,0,0,2.272-.375Zm5.772-.964a1.151,1.151,0,0,0-1.151,1.151v6.985a1.151,1.151,0,0,0,2.3,0v-6.985A1.151,1.151,0,0,0,204.057,210.569Z" transform="translate(-195.997 -210.569)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

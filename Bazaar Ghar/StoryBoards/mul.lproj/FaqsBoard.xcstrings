@@ -1,0 +1,546 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0WY-gB-YYl.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"FAQs\"; ObjectID = \"0WY-gB-YYl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "FAQs"
+          }
+        }
+      }
+    },
+    "2c4-5A-sZA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Comments\"; ObjectID = \"2c4-5A-sZA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Comments"
+          }
+        }
+      }
+    },
+    "3Nx-NH-Ekk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Embedded content from other websites\"; ObjectID = \"3Nx-NH-Ekk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Embedded content from other websites"
+          }
+        }
+      }
+    },
+    "6xg-Wb-Aeo.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"6xg-Wb-Aeo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "9VE-PD-KSN.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"3rd Floor, 4th Rd,Chandni Chowk Block B Satellite Town,Rawalpindi,Punjab 46000,Pakistan\"; ObjectID = \"9VE-PD-KSN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3rd Floor, 4th Rd,Chandni Chowk Block B Satellite Town,Rawalpindi,Punjab 46000,Pakistan"
+          }
+        }
+      }
+    },
+    "54f-sj-OgY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"If you I visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.\"; ObjectID = \"54f-sj-OgY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you I visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
+          }
+        }
+      }
+    },
+    "CyF-VA-9He.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"hello@bazaarghar.com\"; ObjectID = \"CyF-VA-9He\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "hello@bazaarghar.com"
+          }
+        }
+      }
+    },
+    "Dq6-1k-hns.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"What personal data we collect and why we collect it\"; ObjectID = \"Dq6-1k-hns\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "What personal data we collect and why we collect it"
+          }
+        }
+      }
+    },
+    "Dyd-QC-kAy.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time. (except they cannot change their username). Website administrators can also see and edit that information.\"; ObjectID = \"Dyd-QC-kAy\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time. (except they cannot change their username). Website administrators can also see and edit that information."
+          }
+        }
+      }
+    },
+    "eQ3-RT-Dkt.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.\"; ObjectID = \"eQ3-RT-Dkt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
+          }
+        }
+      }
+    },
+    "ezc-PO-fc3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"DNDNDNDN\"; ObjectID = \"ezc-PO-fc3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DNDNDNDN"
+          }
+        }
+      }
+    },
+    "fub-0E-9V2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"A project by Vintega Solutions.\"; ObjectID = \"fub-0E-9V2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A project by Vintega Solutions."
+          }
+        }
+      }
+    },
+    "gcH-rW-dII.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Visitor comments may be checked through an automated spam detection service.\\n\"; ObjectID = \"gcH-rW-dII\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Visitor comments may be checked through an automated spam detection service.\n"
+          }
+        }
+      }
+    },
+    "gCW-0x-QHk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"+92 301 1161-879\"; ObjectID = \"gCW-0x-QHk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+92 301 1161-879"
+          }
+        }
+      }
+    },
+    "gD9-7l-Td9.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.\"; ObjectID = \"gD9-7l-Td9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
+          }
+        }
+      }
+    },
+    "Go9-zw-oia.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Privacy policy\"; ObjectID = \"Go9-zw-oia\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Privacy policy"
+          }
+        }
+      }
+    },
+    "GWL-aF-hGD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"DNDNDNDN\"; ObjectID = \"GWL-aF-hGD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DNDNDNDN"
+          }
+        }
+      }
+    },
+    "GwZ-09-T5u.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"GwZ-09-T5u\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "HcB-Fd-jDA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Invite Friends\"; ObjectID = \"HcB-Fd-jDA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invite Friends"
+          }
+        }
+      }
+    },
+    "HCm-0U-M5z.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Contact forms\"; ObjectID = \"HCm-0U-M5z\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact forms"
+          }
+        }
+      }
+    },
+    "huy-dc-C60.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.\"; ObjectID = \"huy-dc-C60\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
+          }
+        }
+      }
+    },
+    "JA4-g2-diY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Media\"; ObjectID = \"JA4-g2-diY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Media"
+          }
+        }
+      }
+    },
+    "JRx-I7-uuJ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\"; ObjectID = \"JRx-I7-uuJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."
+          }
+        }
+      }
+    },
+    "jst-Yh-qh6.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"copy\"; ObjectID = \"jst-Yh-qh6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "copy"
+          }
+        }
+      }
+    },
+    "KT5-ya-CfA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Call us 24/7\"; ObjectID = \"KT5-ya-CfA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Call us 24/7"
+          }
+        }
+      }
+    },
+    "kyP-Xy-vYX.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Invite Friends\"; ObjectID = \"kyP-Xy-vYX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invite Friends"
+          }
+        }
+      }
+    },
+    "L0k-hc-agD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"What rights you have over your data\\n\"; ObjectID = \"L0k-hc-agD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "What rights you have over your data\n"
+          }
+        }
+      }
+    },
+    "L2G-6H-GSg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor's IP address and browser user agent string to help spam detection.\"; ObjectID = \"L2G-6H-GSg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor's IP address and browser user agent string to help spam detection."
+          }
+        }
+      }
+    },
+    "l9F-1A-89c.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"edks\"; ObjectID = \"l9F-1A-89c\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "edks"
+          }
+        }
+      }
+    },
+    "ltI-kE-OjT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Terms and Conditions\"; ObjectID = \"ltI-kE-OjT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Terms and Conditions"
+          }
+        }
+      }
+    },
+    "n7i-zU-f9n.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"n7i-zU-f9n\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "oI0-Hj-8sE.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.\"; ObjectID = \"oI0-Hj-8sE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
+          }
+        }
+      }
+    },
+    "OpX-r4-05H.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Cookies\"; ObjectID = \"OpX-r4-05H\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cookies"
+          }
+        }
+      }
+    },
+    "pb3-ni-fQr.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Where we send your data\\n\"; ObjectID = \"pb3-ni-fQr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Where we send your data\n"
+          }
+        }
+      }
+    },
+    "qiI-V0-Dwd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"If you have an account on this site, or have left comments, you can request to receive an exported. file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.\\n\"; ObjectID = \"qiI-V0-Dwd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you have an account on this site, or have left comments, you can request to receive an exported. file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.\n"
+          }
+        }
+      }
+    },
+    "Qvk-PS-RVi.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"Qvk-PS-RVi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "sj5-ac-7Ku.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"PLease Share your Referral code with your friends and family.You will get a reward against each order when they use your referral code.\"; ObjectID = \"sj5-ac-7Ku\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PLease Share your Referral code with your friends and family.You will get a reward against each order when they use your referral code."
+          }
+        }
+      }
+    },
+    "SYL-WZ-X3Q.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Analytics\"; ObjectID = \"SYL-WZ-X3Q\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Analytics"
+          }
+        }
+      }
+    },
+    "Uf9-FO-dmk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Our website address is: https://bazaarghar.com.\"; ObjectID = \"Uf9-FO-dmk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Our website address is: https://bazaarghar.com."
+          }
+        }
+      }
+    },
+    "UUw-bF-1ww.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"ticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website\"; ObjectID = \"UUw-bF-1ww\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website"
+          }
+        }
+      }
+    },
+    "VCX-Vq-KwA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.\"; ObjectID = \"VCX-Vq-KwA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
+          }
+        }
+      }
+    },
+    "VqR-7z-ea4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"How long we retain your data\\n\"; ObjectID = \"VqR-7z-ea4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How long we retain your data\n"
+          }
+        }
+      }
+    },
+    "xBY-Nf-ssP.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after I day.\"; ObjectID = \"xBY-Nf-ssP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after I day."
+          }
+        }
+      }
+    },
+    "xPO-l4-GUq.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Contact Us\"; ObjectID = \"xPO-l4-GUq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact Us"
+          }
+        }
+      }
+    },
+    "z8h-rZ-pHW.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Who we are\"; ObjectID = \"z8h-rZ-pHW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Who we are"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

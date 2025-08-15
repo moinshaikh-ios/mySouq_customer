@@ -1,0 +1,159 @@
+
+/* Class = "UITextField"; placeholder = "Search..."; ObjectID = "1Ke-VG-h1w"; */
+"1Ke-VG-h1w.placeholder" = "Search...";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "2J0-B8-03Y"; */
+"2J0-B8-03Y.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2J0-B8-03Y"; */
+"2J0-B8-03Y.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Go to Cart"; ObjectID = "3Fn-7h-tWn"; */
+"3Fn-7h-tWn.normalTitle" = "Go to Cart";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "533-fs-jOw"; */
+"533-fs-jOw.text" = "Label";
+
+/* Class = "UILabel"; text = "+92"; ObjectID = "6Og-lC-6Kd"; */
+"6Og-lC-6Kd.text" = "+92";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "78N-l3-eBO"; */
+"78N-l3-eBO.text" = "LOGIN";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "7Em-oU-Lsf"; */
+"7Em-oU-Lsf.text" = "LOGIN";
+
+/* Class = "UILabel"; text = "Please enter the verification code sent On"; ObjectID = "7ao-4O-1Nf"; */
+"7ao-4O-1Nf.text" = "Please enter the verification code sent On";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "83T-xq-q1O"; */
+"83T-xq-q1O.text" = "Logout";
+
+/* Class = "UILabel"; text = "Uncharted: Legacy Of Thieves Collection (PS5)"; ObjectID = "88i-PN-PEb"; */
+"88i-PN-PEb.text" = "Uncharted: Legacy Of Thieves Collection (PS5)";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "ArL-ag-M9I"; */
+"ArL-ag-M9I.normalTitle" = "Accept";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BWs-FS-Elj"; */
+"BWs-FS-Elj.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BdW-NM-8hp"; */
+"BdW-NM-8hp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Do you want to join a call"; ObjectID = "Ck5-6g-8Lp"; */
+"Ck5-6g-8Lp.text" = "Do you want to join a call";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "CxD-1t-123"; */
+"CxD-1t-123.text" = "English";
+
+/* Class = "UIButton"; normalTitle = "Continue Shopping"; ObjectID = "Ecz-LY-0Tu"; */
+"Ecz-LY-0Tu.normalTitle" = "Continue Shopping";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Apple"; ObjectID = "GPi-Bl-Bjt"; */
+"GPi-Bl-Bjt.normalTitle" = "Sign in with Apple";
+
+/* Class = "UILabel"; text = "Do you want to join a call Do you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a call"; ObjectID = "GVe-Md-lo3"; */
+"GVe-Md-lo3.text" = "Do you want to join a call Do you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a call";
+
+/* Class = "UILabel"; text = "sra"; ObjectID = "GqB-De-YCo"; */
+"GqB-De-YCo.text" = "sra";
+
+/* Class = "UIButton"; normalTitle = "Cencel"; ObjectID = "H1e-14-ZKt"; */
+"H1e-14-ZKt.normalTitle" = "Cencel";
+
+/* Class = "UILabel"; text = "Verify Number"; ObjectID = "Hb4-2T-7IS"; */
+"Hb4-2T-7IS.text" = "Verify Number";
+
+/* Class = "UITextField"; placeholder = "3001234567"; ObjectID = "Idd-If-b2f"; */
+"Idd-If-b2f.placeholder" = "3001234567";
+
+/* Class = "UIButton"; normalTitle = "Go to Settings"; ObjectID = "Mha-z7-Y3b"; */
+"Mha-z7-Y3b.normalTitle" = "Go to Settings";
+
+/* Class = "UILabel"; text = "Alert description"; ObjectID = "PyR-23-cW1"; */
+"PyR-23-cW1.text" = "Alert description";
+
+/* Class = "UILabel"; text = "2.0 (400 reviews)"; ObjectID = "SBq-62-A8E"; */
+"SBq-62-A8E.text" = "2.0 (400 reviews)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Smi-yx-iyj"; */
+"Smi-yx-iyj.text" = "Label";
+
+/* Class = "UILabel"; text = "60"; ObjectID = "SpO-sk-0h4"; */
+"SpO-sk-0h4.text" = "60";
+
+/* Class = "UILabel"; text = "Something went wrong! Refresh or check your Internet settings"; ObjectID = "TUc-35-Soa"; */
+"TUc-35-Soa.text" = "Something went wrong! Refresh or check your Internet settings";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "TsS-Fn-OJe"; */
+"TsS-Fn-OJe.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "No Internet Connection"; ObjectID = "UvN-r2-5tV"; */
+"UvN-r2-5tV.text" = "No Internet Connection";
+
+/* Class = "UIViewController"; title = "OTPViewController"; ObjectID = "XvA-wY-14N"; */
+"XvA-wY-14N.title" = "OTPViewController";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XvG-G4-3Nc"; */
+"XvG-G4-3Nc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Product out of stock"; ObjectID = "Ykp-Hd-iLY"; */
+"Ykp-Hd-iLY.text" = "Product out of stock";
+
+/* Class = "UILabel"; text = "عربي"; ObjectID = "d6v-Lk-wjD"; */
+"d6v-Lk-wjD.text" = "عربي";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "d7t-8w-XqF"; */
+"d7t-8w-XqF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Add to cart"; ObjectID = "eRl-WP-JHa"; */
+"eRl-WP-JHa.text" = "Add to cart";
+
+/* Class = "UILabel"; text = "Categories"; ObjectID = "fWw-hb-xQZ"; */
+"fWw-hb-xQZ.text" = "Categories";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "gE7-m9-TPt"; */
+"gE7-m9-TPt.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "Added to Cart!"; ObjectID = "gVM-10-DB6"; */
+"gVM-10-DB6.text" = "Added to Cart!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gbQ-R8-qMc"; */
+"gbQ-R8-qMc.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "inI-6q-8w5"; */
+"inI-6q-8w5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Successfully added Sony PS5 in your cart"; ObjectID = "jeF-tO-Vvs"; */
+"jeF-tO-Vvs.text" = "Successfully added Sony PS5 in your cart";
+
+/* Class = "UIButton"; normalTitle = "RESEND SMS"; ObjectID = "k7t-gL-bqC"; */
+"k7t-gL-bqC.normalTitle" = "RESEND SMS";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "lFJ-ZQ-B0J"; */
+"lFJ-ZQ-B0J.normalTitle" = "Apply";
+
+/* Class = "UILabel"; text = "TOP CATEGORIES"; ObjectID = "oCg-nJ-isj"; */
+"oCg-nJ-isj.text" = "TOP CATEGORIES";
+
+/* Class = "UIButton"; normalTitle = "Sign in with Google"; ObjectID = "ov6-xC-XCu"; */
+"ov6-xC-XCu.normalTitle" = "Sign in with Google";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "vb8-jp-rCn"; */
+"vb8-jp-rCn.text" = "OR";
+
+/* Class = "UILabel"; text = "Apply"; ObjectID = "vlQ-AK-m02"; */
+"vlQ-AK-m02.text" = "Apply";
+
+/* Class = "UILabel"; text = "Select a country"; ObjectID = "voY-T6-P5z"; */
+"voY-T6-P5z.text" = "Select a country";
+
+/* Class = "UILabel"; text = "Products"; ObjectID = "wTy-5a-a9O"; */
+"wTy-5a-a9O.text" = "Products";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "wpF-ly-j7y"; */
+"wpF-ly-j7y.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Enter mobile number to login your account"; ObjectID = "xUb-pp-CLg"; */
+"xUb-pp-CLg.text" = "Enter mobile number to login your account";

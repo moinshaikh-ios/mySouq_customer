@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "MySouq Logo En-Reverse.jpg",
+      "idiom" : "iphone"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "automatic"
+  }
+}

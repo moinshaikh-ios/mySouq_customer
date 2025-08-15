@@ -1,0 +1,138 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1wI-de-PbU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Inbox\"; ObjectID = \"1wI-de-PbU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inbox"
+          }
+        }
+      }
+    },
+    "6Lz-i8-3aS.text" : {
+      "comment" : "Class = \"UITextView\"; text = \"Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.\"; ObjectID = \"6Lz-i8-3aS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."
+          }
+        }
+      }
+    },
+    "8Cb-zS-wiF.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"8Cb-zS-wiF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "cfv-XA-DIL.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"MTC ACCESSORIES\"; ObjectID = \"cfv-XA-DIL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "MTC ACCESSORIES"
+          }
+        }
+      }
+    },
+    "edg-Rh-nie.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"2\"; ObjectID = \"edg-Rh-nie\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        }
+      }
+    },
+    "FCQ-eK-wmD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"2\"; ObjectID = \"FCQ-eK-wmD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        }
+      }
+    },
+    "HJP-VO-Wgu.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"HJP-VO-Wgu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "oGS-Jz-YZ2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Faster\"; ObjectID = \"oGS-Jz-YZ2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Faster"
+          }
+        }
+      }
+    },
+    "Rht-KM-10r.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Inbox\"; ObjectID = \"Rht-KM-10r\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Inbox"
+          }
+        }
+      }
+    },
+    "xev-GR-C34.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Your Inbox is empty\"; ObjectID = \"xev-GR-C34\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Inbox is empty"
+          }
+        }
+      }
+    },
+    "Y8T-No-q9K.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"25 Aug 2023\"; ObjectID = \"Y8T-No-q9K\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "25 Aug 2023"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

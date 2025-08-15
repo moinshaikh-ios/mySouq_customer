@@ -1,0 +1,1194 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0Bz-zk-DFZ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"200  \"; ObjectID = \"0Bz-zk-DFZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "200  "
+          }
+        }
+      }
+    },
+    "1Bf-kC-pHv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"1Bf-kC-pHv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "1rq-EP-VEk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Edit\"; ObjectID = \"1rq-EP-VEk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "2Ij-NX-Mld.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Order on WhatsApp\"; ObjectID = \"2Ij-NX-Mld\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Order on WhatsApp"
+          }
+        }
+      }
+    },
+    "3Ra-Fa-IEs.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Delivery Address\"; ObjectID = \"3Ra-Fa-IEs\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delivery Address"
+          }
+        }
+      }
+    },
+    "04E-Wk-eOA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Invoice\"; ObjectID = \"04E-Wk-eOA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invoice"
+          }
+        }
+      }
+    },
+    "5Nq-0c-z2T.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Apply\"; ObjectID = \"5Nq-0c-z2T\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "5rq-Kj-hO2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sony\"; ObjectID = \"5rq-Kj-hO2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sony"
+          }
+        }
+      }
+    },
+    "9dK-jD-q1i.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"4.0\"; ObjectID = \"9dK-jD-q1i\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "4.0"
+          }
+        }
+      }
+    },
+    "9EJ-Ty-gur.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Checkout\"; ObjectID = \"9EJ-Ty-gur\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Checkout"
+          }
+        }
+      }
+    },
+    "9I2-zG-qeQ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"2.0 (400 reviews)\"; ObjectID = \"9I2-zG-qeQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2.0 (400 reviews)"
+          }
+        }
+      }
+    },
+    "514-14-f0W.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"514-14-f0W\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "ahl-SR-bL2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Type: Digital\"; ObjectID = \"ahl-SR-bL2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type: Digital"
+          }
+        }
+      }
+    },
+    "Asd-8V-FVg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Payment Method\"; ObjectID = \"Asd-8V-FVg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Payment Method"
+          }
+        }
+      }
+    },
+    "atI-LO-MAG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Map here\"; ObjectID = \"atI-LO-MAG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map here"
+          }
+        }
+      }
+    },
+    "AXK-jh-yJc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Description\"; ObjectID = \"AXK-jh-yJc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Description"
+          }
+        }
+      }
+    },
+    "B1m-EX-Pxf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Coupon Code\"; ObjectID = \"B1m-EX-Pxf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Coupon Code"
+          }
+        }
+      }
+    },
+    "bGy-tD-nHf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Cart\"; ObjectID = \"bGy-tD-nHf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cart"
+          }
+        }
+      }
+    },
+    "BJu-wd-O3p.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Split in 4 payments of AED 469.70 No interest. No late fees.\"; ObjectID = \"BJu-wd-O3p\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Split in 4 payments of AED 469.70 No interest. No late fees."
+          }
+        }
+      }
+    },
+    "Bu3-0G-fIT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"2\"; ObjectID = \"Bu3-0G-fIT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        }
+      }
+    },
+    "c2n-N9-ykD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"5\"; ObjectID = \"c2n-N9-ykD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "5"
+          }
+        }
+      }
+    },
+    "CA3-Bv-Blu.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sub Total\"; ObjectID = \"CA3-Bv-Blu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sub Total"
+          }
+        }
+      }
+    },
+    "CIB-Xo-hkL.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"3\"; ObjectID = \"CIB-Xo-hkL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3"
+          }
+        }
+      }
+    },
+    "CON-xa-LsR.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter Coupon\"; ObjectID = \"CON-xa-LsR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter Coupon"
+          }
+        }
+      }
+    },
+    "DAs-xo-LlE.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Delivery\"; ObjectID = \"DAs-xo-LlE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delivery"
+          }
+        }
+      }
+    },
+    "Dca-kn-YDG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Good rating\"; ObjectID = \"Dca-kn-YDG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Good rating"
+          }
+        }
+      }
+    },
+    "dDa-Cs-6Xa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Good rating\"; ObjectID = \"dDa-Cs-6Xa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Good rating"
+          }
+        }
+      }
+    },
+    "djL-sd-HsA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"100%\"; ObjectID = \"djL-sd-HsA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "100%"
+          }
+        }
+      }
+    },
+    "doQ-dF-lkQ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"SAR 12227,900\"; ObjectID = \"doQ-dF-lkQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SAR 12227,900"
+          }
+        }
+      }
+    },
+    "dPH-cw-HCw.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Related Videos\"; ObjectID = \"dPH-cw-HCw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Related Videos"
+          }
+        }
+      }
+    },
+    "e8W-Yt-GtM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Automotive\"; ObjectID = \"e8W-Yt-GtM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Automotive"
+          }
+        }
+      }
+    },
+    "EVb-Dt-9b7.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Related Products\"; ObjectID = \"EVb-Dt-9b7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Related Products"
+          }
+        }
+      }
+    },
+    "Exr-vD-pw3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product Total\"; ObjectID = \"Exr-vD-pw3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product Total"
+          }
+        }
+      }
+    },
+    "eZc-yE-vwt.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product Total\"; ObjectID = \"eZc-yE-vwt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product Total"
+          }
+        }
+      }
+    },
+    "ezo-On-cGc.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Home\"; ObjectID = \"ezo-On-cGc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "giX-ja-pHn.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"12\"; ObjectID = \"giX-ja-pHn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "12"
+          }
+        }
+      }
+    },
+    "gpo-Wg-Q9C.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"-\"; ObjectID = \"gpo-Wg-Q9C\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "-"
+          }
+        }
+      }
+    },
+    "GZE-af-FeK.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Color (3)\"; ObjectID = \"GZE-af-FeK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Color (3)"
+          }
+        }
+      }
+    },
+    "Gzy-Va-P4m.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"7 Days Return Policy\"; ObjectID = \"Gzy-Va-P4m\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "7 Days Return Policy"
+          }
+        }
+      }
+    },
+    "hb9-Zl-SLV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Chat response\"; ObjectID = \"hb9-Zl-SLV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Chat response"
+          }
+        }
+      }
+    },
+    "hlr-Yz-zAC.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Buy Now\"; ObjectID = \"hlr-Yz-zAC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Buy Now"
+          }
+        }
+      }
+    },
+    "HsX-SD-Hkb.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"1\"; ObjectID = \"HsX-SD-Hkb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1"
+          }
+        }
+      }
+    },
+    "hu6-LW-zKJ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"About Seller\"; ObjectID = \"hu6-LW-zKJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "About Seller"
+          }
+        }
+      }
+    },
+    "Hwg-n2-BQX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Invoice#\"; ObjectID = \"Hwg-n2-BQX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Invoice#"
+          }
+        }
+      }
+    },
+    "Hzq-fn-mEp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"PlayStation 5 Console\"; ObjectID = \"Hzq-fn-mEp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PlayStation 5 Console"
+          }
+        }
+      }
+    },
+    "iCv-B8-i6Q.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Total Amount\"; ObjectID = \"iCv-B8-i6Q\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total Amount"
+          }
+        }
+      }
+    },
+    "Idy-ed-KOH.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"+ Add New Address\"; ObjectID = \"Idy-ed-KOH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+ Add New Address"
+          }
+        }
+      }
+    },
+    "iGI-2C-Ylv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Items\"; ObjectID = \"iGI-2C-Ylv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Items"
+          }
+        }
+      }
+    },
+    "jGG-xu-nVU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"9897647651345\"; ObjectID = \"jGG-xu-nVU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "9897647651345"
+          }
+        }
+      }
+    },
+    "jWP-0w-QBp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Add to Cart\"; ObjectID = \"jWP-0w-QBp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add to Cart"
+          }
+        }
+      }
+    },
+    "K29-Gx-dvO.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"SAR 99.00\"; ObjectID = \"K29-Gx-dvO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SAR 99.00"
+          }
+        }
+      }
+    },
+    "KUX-lG-aY0.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"10% Off\"; ObjectID = \"KUX-lG-aY0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "10% Off"
+          }
+        }
+      }
+    },
+    "Lf7-GJ-VIP.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"Lf7-GJ-VIP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "lX4-vh-tNh.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Date\"; ObjectID = \"lX4-vh-tNh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date"
+          }
+        }
+      }
+    },
+    "m0s-9D-ldU.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"+\"; ObjectID = \"m0s-9D-ldU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+"
+          }
+        }
+      }
+    },
+    "MrA-yI-fTo.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Payable\"; ObjectID = \"MrA-yI-fTo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Payable"
+          }
+        }
+      }
+    },
+    "Mvc-gf-MCe.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"01-08-2024\"; ObjectID = \"Mvc-gf-MCe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "01-08-2024"
+          }
+        }
+      }
+    },
+    "NwT-IA-vPA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Get the order in 3 - 5 days\"; ObjectID = \"NwT-IA-vPA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Get the order in 3 - 5 days"
+          }
+        }
+      }
+    },
+    "O7P-Pd-tM0.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"My Orders\"; ObjectID = \"O7P-Pd-tM0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My Orders"
+          }
+        }
+      }
+    },
+    "o24-L6-5Yq.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Qty\"; ObjectID = \"o24-L6-5Yq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Qty"
+          }
+        }
+      }
+    },
+    "OEk-0Z-NKx.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"DBAAZAR RECOMMENDATION\"; ObjectID = \"OEk-0Z-NKx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DBAAZAR RECOMMENDATION"
+          }
+        }
+      }
+    },
+    "OeX-RE-RcU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Home - SAUDI ARABIA\"; ObjectID = \"OeX-RE-RcU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Home - SAUDI ARABIA"
+          }
+        }
+      }
+    },
+    "OHB-id-oBy.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"View Store\"; ObjectID = \"OHB-id-oBy\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "View Store"
+          }
+        }
+      }
+    },
+    "Os9-fT-17u.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"2\"; ObjectID = \"Os9-fT-17u\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2"
+          }
+        }
+      }
+    },
+    "oV7-51-CwM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"PlayStation 5 Console – Marvel’s Spider-Man 2 Limited Edition Bundle\"; ObjectID = \"oV7-51-CwM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PlayStation 5 Console – Marvel’s Spider-Man 2 Limited Edition Bundle"
+          }
+        }
+      }
+    },
+    "oWi-HI-1Cb.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"oWi-HI-1Cb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "p7I-0w-aV6.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"1\"; ObjectID = \"p7I-0w-aV6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1"
+          }
+        }
+      }
+    },
+    "pd3-Dc-K0x.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Amount\"; ObjectID = \"pd3-Dc-K0x\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Amount"
+          }
+        }
+      }
+    },
+    "pDv-tk-PlJ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"10\"; ObjectID = \"pDv-tk-PlJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "10"
+          }
+        }
+      }
+    },
+    "PGx-de-iNi.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"PGx-de-iNi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "pIL-UJ-Ih0.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Delivered by 29 Jun - 6 Jul\"; ObjectID = \"pIL-UJ-Ih0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delivered by 29 Jun - 6 Jul"
+          }
+        }
+      }
+    },
+    "PSl-Kt-y4a.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"PlayStation 5 Spider-Man 2 ConsolePlayStation 5 Spider-Man 2 ConsolePlayStation 5 Spider-Man 2 ConsolePlayStation 5 Spider-Man 2 Console\"; ObjectID = \"PSl-Kt-y4a\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PlayStation 5 Spider-Man 2 ConsolePlayStation 5 Spider-Man 2 ConsolePlayStation 5 Spider-Man 2 ConsolePlayStation 5 Spider-Man 2 Console"
+          }
+        }
+      }
+    },
+    "qpj-Ua-QeA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"3\"; ObjectID = \"qpj-Ua-QeA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3"
+          }
+        }
+      }
+    },
+    "SgE-1e-1DX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product Total\"; ObjectID = \"SgE-1e-1DX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product Total"
+          }
+        }
+      }
+    },
+    "smQ-sh-sJa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Be greater than ever before \"; ObjectID = \"smQ-sh-sJa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Be greater than ever before "
+          }
+        }
+      }
+    },
+    "STB-94-ynY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product Total\"; ObjectID = \"STB-94-ynY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product Total"
+          }
+        }
+      }
+    },
+    "SV2-95-hqg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product Total\"; ObjectID = \"SV2-95-hqg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product Total"
+          }
+        }
+      }
+    },
+    "T8r-Ho-uXc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Thank you for placing the order\"; ObjectID = \"T8r-Ho-uXc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Thank you for placing the order"
+          }
+        }
+      }
+    },
+    "tjT-r3-eZZ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Out Of Stock\"; ObjectID = \"tjT-r3-eZZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Out Of Stock"
+          }
+        }
+      }
+    },
+    "tU3-6H-dqC.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"4\"; ObjectID = \"tU3-6H-dqC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "4"
+          }
+        }
+      }
+    },
+    "TwX-tj-uth.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Shipment on time\"; ObjectID = \"TwX-tj-uth\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shipment on time"
+          }
+        }
+      }
+    },
+    "UfW-H9-x5K.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"UfW-H9-x5K\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "UjD-io-9Us.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sales in last 30 days\"; ObjectID = \"UjD-io-9Us\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sales in last 30 days"
+          }
+        }
+      }
+    },
+    "usM-qF-ibX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Checkout\"; ObjectID = \"usM-qF-ibX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Checkout"
+          }
+        }
+      }
+    },
+    "uWF-GZ-ElC.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"This is some street address,with house number some state & province & country.\"; ObjectID = \"uWF-GZ-ElC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This is some street address,with house number some state & province & country."
+          }
+        }
+      }
+    },
+    "vxj-ZB-6jD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Customer Reviews\"; ObjectID = \"vxj-ZB-6jD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Customer Reviews"
+          }
+        }
+      }
+    },
+    "wFx-4v-jq4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product Total\"; ObjectID = \"wFx-4v-jq4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product Total"
+          }
+        }
+      }
+    },
+    "wOE-d4-rYb.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Checkout\"; ObjectID = \"wOE-d4-rYb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Checkout"
+          }
+        }
+      }
+    },
+    "x2t-wY-A7x.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"SAR 1800\"; ObjectID = \"x2t-wY-A7x\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SAR 1800"
+          }
+        }
+      }
+    },
+    "xAC-nO-xcM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Discount\"; ObjectID = \"xAC-nO-xcM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Discount"
+          }
+        }
+      }
+    },
+    "XE2-aR-rHV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"4.0\"; ObjectID = \"XE2-aR-rHV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "4.0"
+          }
+        }
+      }
+    },
+    "XJb-wq-dnk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Home\"; ObjectID = \"XJb-wq-dnk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "xmk-ha-2Tn.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Total\"; ObjectID = \"xmk-ha-2Tn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total"
+          }
+        }
+      }
+    },
+    "YAX-39-hZW.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product Total\"; ObjectID = \"YAX-39-hZW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product Total"
+          }
+        }
+      }
+    },
+    "yJO-NY-Xf8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"100%\"; ObjectID = \"yJO-NY-Xf8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "100%"
+          }
+        }
+      }
+    },
+    "YkY-LX-fh8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Receive by 29 Jun - 6 Jul\"; ObjectID = \"YkY-LX-fh8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Receive by 29 Jun - 6 Jul"
+          }
+        }
+      }
+    },
+    "zE3-7t-y5x.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"1\"; ObjectID = \"zE3-7t-y5x\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1"
+          }
+        }
+      }
+    },
+    "ZIT-KF-KB3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Order Summary\"; ObjectID = \"ZIT-KF-KB3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Order Summary"
+          }
+        }
+      }
+    },
+    "zw9-Wh-tkv.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"zw9-Wh-tkv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
