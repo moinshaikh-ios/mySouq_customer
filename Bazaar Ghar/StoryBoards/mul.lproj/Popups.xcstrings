@@ -1,0 +1,642 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "1Ke-VG-h1w.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Search...\"; ObjectID = \"1Ke-VG-h1w\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search..."
+          }
+        }
+      }
+    },
+    "2J0-B8-03Y.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Next\"; ObjectID = \"2J0-B8-03Y\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "2J0-B8-03Y.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"2J0-B8-03Y\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "3Fn-7h-tWn.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Go to Cart\"; ObjectID = \"3Fn-7h-tWn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Go to Cart"
+          }
+        }
+      }
+    },
+    "6Og-lC-6Kd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"+92\"; ObjectID = \"6Og-lC-6Kd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+92"
+          }
+        }
+      }
+    },
+    "7ao-4O-1Nf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Please enter the verification code sent On\"; ObjectID = \"7ao-4O-1Nf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Please enter the verification code sent On"
+          }
+        }
+      }
+    },
+    "7Em-oU-Lsf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"LOGIN\"; ObjectID = \"7Em-oU-Lsf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "LOGIN"
+          }
+        }
+      }
+    },
+    "78N-l3-eBO.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"LOGIN\"; ObjectID = \"78N-l3-eBO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "LOGIN"
+          }
+        }
+      }
+    },
+    "83T-xq-q1O.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Logout\"; ObjectID = \"83T-xq-q1O\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logout"
+          }
+        }
+      }
+    },
+    "88i-PN-PEb.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Uncharted: Legacy Of Thieves Collection (PS5)\"; ObjectID = \"88i-PN-PEb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Uncharted: Legacy Of Thieves Collection (PS5)"
+          }
+        }
+      }
+    },
+    "533-fs-jOw.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"533-fs-jOw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "ArL-ag-M9I.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Accept\"; ObjectID = \"ArL-ag-M9I\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Accept"
+          }
+        }
+      }
+    },
+    "BdW-NM-8hp.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"BdW-NM-8hp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "BWs-FS-Elj.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"BWs-FS-Elj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "Ck5-6g-8Lp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Do you want to join a call\"; ObjectID = \"Ck5-6g-8Lp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Do you want to join a call"
+          }
+        }
+      }
+    },
+    "CxD-1t-123.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"English\"; ObjectID = \"CxD-1t-123\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "English"
+          }
+        }
+      }
+    },
+    "d6v-Lk-wjD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"عربي\"; ObjectID = \"d6v-Lk-wjD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "عربي"
+          }
+        }
+      }
+    },
+    "d7t-8w-XqF.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"d7t-8w-XqF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "Ecz-LY-0Tu.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Continue Shopping\"; ObjectID = \"Ecz-LY-0Tu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Continue Shopping"
+          }
+        }
+      }
+    },
+    "eRl-WP-JHa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Add to cart\"; ObjectID = \"eRl-WP-JHa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add to cart"
+          }
+        }
+      }
+    },
+    "fWw-hb-xQZ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Categories\"; ObjectID = \"fWw-hb-xQZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Categories"
+          }
+        }
+      }
+    },
+    "gbQ-R8-qMc.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"gbQ-R8-qMc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "gE7-m9-TPt.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Reject\"; ObjectID = \"gE7-m9-TPt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reject"
+          }
+        }
+      }
+    },
+    "GPi-Bl-Bjt.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Sign in with Apple\"; ObjectID = \"GPi-Bl-Bjt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign in with Apple"
+          }
+        }
+      }
+    },
+    "GqB-De-YCo.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"sra\"; ObjectID = \"GqB-De-YCo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "sra"
+          }
+        }
+      }
+    },
+    "GVe-Md-lo3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Do you want to join a call Do you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a call\"; ObjectID = \"GVe-Md-lo3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Do you want to join a call Do you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a callDo you want to join a call"
+          }
+        }
+      }
+    },
+    "gVM-10-DB6.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Added to Cart!\"; ObjectID = \"gVM-10-DB6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Added to Cart!"
+          }
+        }
+      }
+    },
+    "H1e-14-ZKt.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Cencel\"; ObjectID = \"H1e-14-ZKt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cencel"
+          }
+        }
+      }
+    },
+    "Hb4-2T-7IS.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Verify Number\"; ObjectID = \"Hb4-2T-7IS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Verify Number"
+          }
+        }
+      }
+    },
+    "Idd-If-b2f.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"3001234567\"; ObjectID = \"Idd-If-b2f\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3001234567"
+          }
+        }
+      }
+    },
+    "inI-6q-8w5.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"inI-6q-8w5\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "jeF-tO-Vvs.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Successfully added Sony PS5 in your cart\"; ObjectID = \"jeF-tO-Vvs\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Successfully added Sony PS5 in your cart"
+          }
+        }
+      }
+    },
+    "k7t-gL-bqC.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"RESEND SMS\"; ObjectID = \"k7t-gL-bqC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "RESEND SMS"
+          }
+        }
+      }
+    },
+    "lFJ-ZQ-B0J.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Apply\"; ObjectID = \"lFJ-ZQ-B0J\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "Mha-z7-Y3b.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Go to Settings\"; ObjectID = \"Mha-z7-Y3b\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Go to Settings"
+          }
+        }
+      }
+    },
+    "oCg-nJ-isj.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"TOP CATEGORIES\"; ObjectID = \"oCg-nJ-isj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "TOP CATEGORIES"
+          }
+        }
+      }
+    },
+    "ov6-xC-XCu.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Sign in with Google\"; ObjectID = \"ov6-xC-XCu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sign in with Google"
+          }
+        }
+      }
+    },
+    "PyR-23-cW1.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Alert description\"; ObjectID = \"PyR-23-cW1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Alert description"
+          }
+        }
+      }
+    },
+    "SBq-62-A8E.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"2.0 (400 reviews)\"; ObjectID = \"SBq-62-A8E\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "2.0 (400 reviews)"
+          }
+        }
+      }
+    },
+    "Smi-yx-iyj.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"Smi-yx-iyj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "SpO-sk-0h4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"60\"; ObjectID = \"SpO-sk-0h4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "60"
+          }
+        }
+      }
+    },
+    "TsS-Fn-OJe.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Ok\"; ObjectID = \"TsS-Fn-OJe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ok"
+          }
+        }
+      }
+    },
+    "TUc-35-Soa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Something went wrong! Refresh or check your Internet settings\"; ObjectID = \"TUc-35-Soa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Something went wrong! Refresh or check your Internet settings"
+          }
+        }
+      }
+    },
+    "UvN-r2-5tV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"No Internet Connection\"; ObjectID = \"UvN-r2-5tV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No Internet Connection"
+          }
+        }
+      }
+    },
+    "vb8-jp-rCn.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"OR\"; ObjectID = \"vb8-jp-rCn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OR"
+          }
+        }
+      }
+    },
+    "vlQ-AK-m02.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Apply\"; ObjectID = \"vlQ-AK-m02\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "voY-T6-P5z.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Select a country\"; ObjectID = \"voY-T6-P5z\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select a country"
+          }
+        }
+      }
+    },
+    "wpF-ly-j7y.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Cancel\"; ObjectID = \"wpF-ly-j7y\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "wTy-5a-a9O.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Products\"; ObjectID = \"wTy-5a-a9O\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Products"
+          }
+        }
+      }
+    },
+    "xUb-pp-CLg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Enter mobile number to login your account\"; ObjectID = \"xUb-pp-CLg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter mobile number to login your account"
+          }
+        }
+      }
+    },
+    "XvA-wY-14N.title" : {
+      "comment" : "Class = \"UIViewController\"; title = \"OTPViewController\"; ObjectID = \"XvA-wY-14N\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "OTPViewController"
+          }
+        }
+      }
+    },
+    "XvG-G4-3Nc.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"XvG-G4-3Nc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "Ykp-Hd-iLY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Product out of stock\"; ObjectID = \"Ykp-Hd-iLY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Product out of stock"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

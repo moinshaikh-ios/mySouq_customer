@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1031505_log out_log out sign_logout_out_sign out_icon.svg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>814899949093-rvd2m8mh60i3remms97o5l31rt0udo78.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.814899949093-rvd2m8mh60i3remms97o5l31rt0udo78</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>814899949093-albrd8tbrcm2729f3qk2liu26ojrg3o0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAH2SgvR2uvio61gPIn-lqvVL6DcdfgyuY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>814899949093</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vintega.mysouq</string>
+	<key>PROJECT_ID</key>
+	<string>mysouq-435507</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mysouq-435507.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:814899949093:ios:7616bb6e0ad3387b7b19cc</string>
+</dict>
+</plist>

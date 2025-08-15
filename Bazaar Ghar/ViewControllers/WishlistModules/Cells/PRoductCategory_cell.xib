@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Bruna-Bold.ttf">
+            <string>Bruna-Bold</string>
+        </array>
+        <array key="Bruna-Regular.ttf">
+            <string>Bruna-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="PRoductCategory_cell" reuseIdentifier="PRoductCategory_cell" id="gTV-IL-0wX" customClass="PRoductCategory_cell" customModule="MySouq" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="173" height="220"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="173" height="220"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uU3-kQ-C2b">
+                        <rect key="frame" x="0.0" y="0.0" width="173" height="220"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Splash" translatesAutoresizingMaskIntoConstraints="NO" id="All-Qm-yoM">
+                                <rect key="frame" x="0.0" y="0.0" width="173" height="165"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="165" id="6CF-uA-AFH"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="0.0"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="T-Shirt for men dgert red  latherwallet" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iaS-a3-RpL">
+                                <rect key="frame" x="6" y="170" width="161" height="29.333333333333343"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" name="Bruna-Regular" family="Bruna" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="PKR 1,099" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QbQ-1I-ggW">
+                                <rect key="frame" x="6.0000000000000036" y="202.33333333333334" width="55.333333333333343" height="15.666666666666657"/>
+                                <fontDescription key="fontDescription" name="Bruna-Bold" family="Bruna" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fvL-4Z-6rr">
+                                <rect key="frame" x="6.0000000000000036" y="209.33333333333334" width="55.333333333333343" height="2"/>
+                                <color key="backgroundColor" systemColor="systemGray4Color"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="2" id="uYe-yO-MSP"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="PKR 1,099" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ftZ-hs-URb">
+                                <rect key="frame" x="66.333333333333329" y="202.33333333333334" width="55.333333333333329" height="15.666666666666657"/>
+                                <fontDescription key="fontDescription" name="Bruna-Bold" family="Bruna" pointSize="12"/>
+                                <color key="textColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ftZ-hs-URb" firstAttribute="leading" secondItem="QbQ-1I-ggW" secondAttribute="trailing" constant="5" id="2RN-7H-8MK"/>
+                            <constraint firstItem="fvL-4Z-6rr" firstAttribute="trailing" secondItem="QbQ-1I-ggW" secondAttribute="trailing" id="4BR-YW-Cua"/>
+                            <constraint firstItem="iaS-a3-RpL" firstAttribute="top" secondItem="All-Qm-yoM" secondAttribute="bottom" constant="5" id="D7r-vH-G9H"/>
+                            <constraint firstItem="iaS-a3-RpL" firstAttribute="width" secondItem="uU3-kQ-C2b" secondAttribute="width" multiplier="0.93" id="D9X-Db-do5"/>
+                            <constraint firstItem="All-Qm-yoM" firstAttribute="centerX" secondItem="uU3-kQ-C2b" secondAttribute="centerX" id="Klb-0G-IT7"/>
+                            <constraint firstItem="QbQ-1I-ggW" firstAttribute="top" secondItem="iaS-a3-RpL" secondAttribute="bottom" constant="3" id="PDY-lU-99L"/>
+                            <constraint firstItem="All-Qm-yoM" firstAttribute="width" secondItem="uU3-kQ-C2b" secondAttribute="width" id="UdB-iZ-SLG"/>
+                            <constraint firstItem="iaS-a3-RpL" firstAttribute="centerX" secondItem="uU3-kQ-C2b" secondAttribute="centerX" id="Zwj-zR-fmr"/>
+                            <constraint firstItem="ftZ-hs-URb" firstAttribute="centerY" secondItem="QbQ-1I-ggW" secondAttribute="centerY" id="fMz-OM-HmH"/>
+                            <constraint firstItem="QbQ-1I-ggW" firstAttribute="leading" secondItem="iaS-a3-RpL" secondAttribute="leading" id="gyA-hh-Uuc"/>
+                            <constraint firstItem="fvL-4Z-6rr" firstAttribute="centerY" secondItem="QbQ-1I-ggW" secondAttribute="centerY" id="kKX-yv-KDC"/>
+                            <constraint firstItem="All-Qm-yoM" firstAttribute="top" secondItem="uU3-kQ-C2b" secondAttribute="top" id="mkP-LU-K07"/>
+                            <constraint firstItem="fvL-4Z-6rr" firstAttribute="leading" secondItem="QbQ-1I-ggW" secondAttribute="leading" id="ojc-jX-v5H"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="9"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" systemColor="systemGray4Color"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="uU3-kQ-C2b" firstAttribute="trailing" secondItem="ZTg-uK-7eu" secondAttribute="trailing" id="LKF-ek-8d8"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="leading" secondItem="uU3-kQ-C2b" secondAttribute="leading" id="Ldm-VD-Vse"/>
+                <constraint firstAttribute="top" secondItem="uU3-kQ-C2b" secondAttribute="top" id="MQc-8x-eTu"/>
+                <constraint firstItem="uU3-kQ-C2b" firstAttribute="bottom" secondItem="gTV-IL-0wX" secondAttribute="bottom" id="Q5Z-zM-wja"/>
+            </constraints>
+            <size key="customSize" width="213" height="219"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                    <real key="value" value="0.0"/>
+                </userDefinedRuntimeAttribute>
+                <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                    <real key="value" value="0.0"/>
+                </userDefinedRuntimeAttribute>
+                <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                    <color key="value" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="discountPrice" destination="ftZ-hs-URb" id="TPX-qz-Nw0"/>
+                <outlet property="productPrice" destination="QbQ-1I-ggW" id="9qx-v2-zqo"/>
+                <outlet property="productPriceLine" destination="fvL-4Z-6rr" id="tjh-G8-4Sk"/>
+                <outlet property="productimage" destination="All-Qm-yoM" id="Tmx-Le-Bpb"/>
+                <outlet property="productname" destination="iaS-a3-RpL" id="goh-Wh-C1r"/>
+            </connections>
+            <point key="canvasLocation" x="187.02290076335876" y="119.01408450704226"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Splash" width="366" height="742"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray4Color">
+            <color red="0.81960784310000001" green="0.81960784310000001" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

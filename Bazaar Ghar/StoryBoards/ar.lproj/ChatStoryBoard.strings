@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Inbox"; ObjectID = "1wI-de-PbU"; */
+"1wI-de-PbU.text" = "Inbox";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "6Lz-i8-3aS"; */
+"6Lz-i8-3aS.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Cb-zS-wiF"; */
+"8Cb-zS-wiF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "FCQ-eK-wmD"; */
+"FCQ-eK-wmD.text" = "2";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HJP-VO-Wgu"; */
+"HJP-VO-Wgu.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Inbox"; ObjectID = "Rht-KM-10r"; */
+"Rht-KM-10r.title" = "Inbox";
+
+/* Class = "UILabel"; text = "25 Aug 2023"; ObjectID = "Y8T-No-q9K"; */
+"Y8T-No-q9K.text" = "25 Aug 2023";
+
+/* Class = "UILabel"; text = "MTC ACCESSORIES"; ObjectID = "cfv-XA-DIL"; */
+"cfv-XA-DIL.text" = "MTC ACCESSORIES";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "edg-Rh-nie"; */
+"edg-Rh-nie.text" = "2";
+
+/* Class = "UILabel"; text = "Faster"; ObjectID = "oGS-Jz-YZ2"; */
+"oGS-Jz-YZ2.text" = "Faster";
+
+/* Class = "UILabel"; text = "Your Inbox is empty"; ObjectID = "xev-GR-C34"; */
+"xev-GR-C34.text" = "Your Inbox is empty";

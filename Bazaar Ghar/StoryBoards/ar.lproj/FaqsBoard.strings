@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "FAQs"; ObjectID = "0WY-gB-YYl"; */
+"0WY-gB-YYl.text" = "FAQs";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "2c4-5A-sZA"; */
+"2c4-5A-sZA.text" = "Comments";
+
+/* Class = "UILabel"; text = "Embedded content from other websites"; ObjectID = "3Nx-NH-Ekk"; */
+"3Nx-NH-Ekk.text" = "Embedded content from other websites";
+
+/* Class = "UILabel"; text = "If you I visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."; ObjectID = "54f-sj-OgY"; */
+"54f-sj-OgY.text" = "If you I visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6xg-Wb-Aeo"; */
+"6xg-Wb-Aeo.text" = "Label";
+
+/* Class = "UILabel"; text = "3rd Floor, 4th Rd,Chandni Chowk Block B Satellite Town,Rawalpindi,Punjab 46000,Pakistan"; ObjectID = "9VE-PD-KSN"; */
+"9VE-PD-KSN.text" = "3rd Floor, 4th Rd,Chandni Chowk Block B Satellite Town,Rawalpindi,Punjab 46000,Pakistan";
+
+/* Class = "UILabel"; text = "hello@bazaarghar.com"; ObjectID = "CyF-VA-9He"; */
+"CyF-VA-9He.text" = "hello@bazaarghar.com";
+
+/* Class = "UILabel"; text = "What personal data we collect and why we collect it"; ObjectID = "Dq6-1k-hns"; */
+"Dq6-1k-hns.text" = "What personal data we collect and why we collect it";
+
+/* Class = "UILabel"; text = "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time. (except they cannot change their username). Website administrators can also see and edit that information."; ObjectID = "Dyd-QC-kAy"; */
+"Dyd-QC-kAy.text" = "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time. (except they cannot change their username). Website administrators can also see and edit that information.";
+
+/* Class = "UILabel"; text = "DNDNDNDN"; ObjectID = "GWL-aF-hGD"; */
+"GWL-aF-hGD.text" = "DNDNDNDN";
+
+/* Class = "UILabel"; text = "Privacy policy"; ObjectID = "Go9-zw-oia"; */
+"Go9-zw-oia.text" = "Privacy policy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GwZ-09-T5u"; */
+"GwZ-09-T5u.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Contact forms"; ObjectID = "HCm-0U-M5z"; */
+"HCm-0U-M5z.text" = "Contact forms";
+
+/* Class = "UILabel"; text = "Invite Friends"; ObjectID = "HcB-Fd-jDA"; */
+"HcB-Fd-jDA.text" = "Invite Friends";
+
+/* Class = "UILabel"; text = "Media"; ObjectID = "JA4-g2-diY"; */
+"JA4-g2-diY.text" = "Media";
+
+/* Class = "UILabel"; text = "If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."; ObjectID = "JRx-I7-uuJ"; */
+"JRx-I7-uuJ.text" = "If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.";
+
+/* Class = "UILabel"; text = "Call us 24/7"; ObjectID = "KT5-ya-CfA"; */
+"KT5-ya-CfA.text" = "Call us 24/7";
+
+/* Class = "UILabel"; text = "What rights you have over your data\n"; ObjectID = "L0k-hc-agD"; */
+"L0k-hc-agD.text" = "What rights you have over your data\n";
+
+/* Class = "UILabel"; text = "When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor's IP address and browser user agent string to help spam detection."; ObjectID = "L2G-6H-GSg"; */
+"L2G-6H-GSg.text" = "When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor's IP address and browser user agent string to help spam detection.";
+
+/* Class = "UILabel"; text = "Cookies"; ObjectID = "OpX-r4-05H"; */
+"OpX-r4-05H.text" = "Cookies";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qvk-PS-RVi"; */
+"Qvk-PS-RVi.text" = "Label";
+
+/* Class = "UILabel"; text = "Analytics"; ObjectID = "SYL-WZ-X3Q"; */
+"SYL-WZ-X3Q.text" = "Analytics";
+
+/* Class = "UILabel"; text = "ticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website"; ObjectID = "UUw-bF-1ww"; */
+"UUw-bF-1ww.text" = "ticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website";
+
+/* Class = "UILabel"; text = "Our website address is: https://bazaarghar.com."; ObjectID = "Uf9-FO-dmk"; */
+"Uf9-FO-dmk.text" = "Our website address is: https://bazaarghar.com.";
+
+/* Class = "UILabel"; text = "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."; ObjectID = "VCX-Vq-KwA"; */
+"VCX-Vq-KwA.text" = "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.";
+
+/* Class = "UILabel"; text = "How long we retain your data\n"; ObjectID = "VqR-7z-ea4"; */
+"VqR-7z-ea4.text" = "How long we retain your data\n";
+
+/* Class = "UILabel"; text = "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."; ObjectID = "eQ3-RT-Dkt"; */
+"eQ3-RT-Dkt.text" = "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.";
+
+/* Class = "UILabel"; text = "DNDNDNDN"; ObjectID = "ezc-PO-fc3"; */
+"ezc-PO-fc3.text" = "DNDNDNDN";
+
+/* Class = "UILabel"; text = "A project by Vintega Solutions."; ObjectID = "fub-0E-9V2"; */
+"fub-0E-9V2.text" = "A project by Vintega Solutions.";
+
+/* Class = "UILabel"; text = "+92 301 1161-879"; ObjectID = "gCW-0x-QHk"; */
+"gCW-0x-QHk.text" = "+92 301 1161-879";
+
+/* Class = "UILabel"; text = "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."; ObjectID = "gD9-7l-Td9"; */
+"gD9-7l-Td9.text" = "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.";
+
+/* Class = "UILabel"; text = "Visitor comments may be checked through an automated spam detection service.\n"; ObjectID = "gcH-rW-dII"; */
+"gcH-rW-dII.text" = "Visitor comments may be checked through an automated spam detection service.\n";
+
+/* Class = "UILabel"; text = "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."; ObjectID = "huy-dc-C60"; */
+"huy-dc-C60.text" = "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.";
+
+/* Class = "UIButton"; normalTitle = "copy"; ObjectID = "jst-Yh-qh6"; */
+"jst-Yh-qh6.normalTitle" = "copy";
+
+/* Class = "UIButton"; normalTitle = "Invite Friends"; ObjectID = "kyP-Xy-vYX"; */
+"kyP-Xy-vYX.normalTitle" = "Invite Friends";
+
+/* Class = "UILabel"; text = "edks"; ObjectID = "l9F-1A-89c"; */
+"l9F-1A-89c.text" = "edks";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "ltI-kE-OjT"; */
+"ltI-kE-OjT.text" = "Terms and Conditions";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "n7i-zU-f9n"; */
+"n7i-zU-f9n.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."; ObjectID = "oI0-Hj-8sE"; */
+"oI0-Hj-8sE.text" = "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.";
+
+/* Class = "UILabel"; text = "Where we send your data\n"; ObjectID = "pb3-ni-fQr"; */
+"pb3-ni-fQr.text" = "Where we send your data\n";
+
+/* Class = "UILabel"; text = "If you have an account on this site, or have left comments, you can request to receive an exported. file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.\n"; ObjectID = "qiI-V0-Dwd"; */
+"qiI-V0-Dwd.text" = "If you have an account on this site, or have left comments, you can request to receive an exported. file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.\n";
+
+/* Class = "UILabel"; text = "PLease Share your Referral code with your friends and family.You will get a reward against each order when they use your referral code."; ObjectID = "sj5-ac-7Ku"; */
+"sj5-ac-7Ku.text" = "PLease Share your Referral code with your friends and family.You will get a reward against each order when they use your referral code.";
+
+/* Class = "UILabel"; text = "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after I day."; ObjectID = "xBY-Nf-ssP"; */
+"xBY-Nf-ssP.text" = "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after I day.";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "xPO-l4-GUq"; */
+"xPO-l4-GUq.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "Who we are"; ObjectID = "z8h-rZ-pHW"; */
+"z8h-rZ-pHW.text" = "Who we are";
